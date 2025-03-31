@@ -29,3 +29,4 @@ moviepy==1.0.3
 numpy==1.26.4
 pyngrok==7.2.3
 yt-dlp==2025.3.27
+opencv-python-headless==4.5.5.64
